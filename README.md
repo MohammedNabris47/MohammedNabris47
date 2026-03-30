@@ -1,91 +1,11 @@
 ## Hi there 👋
 
-<!--<h1 align="center">👋 Hi, I'm Nabris</h1>
-<h3 align="center">💻 MERN Stack Developer | 🚀 Building Modern Web Apps</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;Full+Stack+Engineer;Always+Learning+New+Tech;Building+Scalable+Apps" />
-</p>
-
----
-
-## 🧠 About Me  
-💻 Passionate MERN Stack Developer  
-🚀 Love building scalable full-stack applications  
-🌱 Currently exploring **Advanced React & Backend Systems**  
-🤝 Open for collaboration & freelance work  
-⚡ Turning ideas into real-world products  
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode" />
-
-</p>
-
----
-
-## 📊 GitHub Stats (Auto Updating)  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedNabris47&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohammedNabris47&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Top Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedNabris47&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧠 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedNabris47&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🐍 Snake Animation  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MohammedNabris47/MohammedNabris47/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🚀 Featured Projects  
-
-🔹 **AI Resume Builder** – MERN app with AI-powered resume creation  
-🔹 **YouTube Clone** – React video streaming UI  
-🔹 **X (Twitter) Clone** – Full-stack social media app  
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/mohammed-nabris47">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  🌙 <b>Dark Mode • Clean UI • Premium Feel</b>  
-</p>
-
-<p align="center">
-  ✨ <i>Code. Learn. Build. Repeat.</i> ✨  
-</p>
-**MohammedNabris47/MohammedNabris47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+ 👋 Hi, I'm Nabris  <br><br>💻 Passionate MERN Stack Developer  <br>🚀 Love building full-stack web applications  <br>🌱 Currently exploring advanced React & backend architectures  <br>📚 Always learning new technologies and improving my skills  <br><br>🛠️ Tech Stack  <br>🌐 Frontend: HTML, CSS, JavaScript, React.js  <br>⚙️ Backend: Node.js, Express.js  <br>🗄️ Database: MongoDB  <br>🎨 Styling: Tailwind CSS, Bootstrap  <br><br>✨ About Me  <br>🔥 Focused on creating scalable and user-friendly applications  <br>🤝 Open to collaboration and learning opportunities  <br>📈 Continuously improving problem-solving skills  <br><br>---<br><br>⭐ *"Code. Learn. Build. Repeat."*
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohammed-nabris47) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
